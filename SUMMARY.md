@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome to my Soul Script!](README.md)
+* [Resume](resume.md)
 
 ## Define Myself As
 
