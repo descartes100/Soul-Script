@@ -2,6 +2,7 @@
 
 * [Welcome to my Soul Script!](README.md)
 * [Resume](resume.md)
+* [PhD Vision Statement](phd-vision-statement.md)
 
 ## Define Myself As
 
