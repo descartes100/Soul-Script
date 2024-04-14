@@ -1,12 +1,9 @@
----
-description: it also serves as my RESUME.
----
+Read on [gitbooks](https://zhang-leis-soul-script.gitbook.io/doc)
 
 # Welcome to my Soul Script!
 
-{% hint style="info" %}
-If you've been directed to this webpage to find my resume, you're in the right place! While this isn't a traditional resume, it contains all the information you need, presented in a vivid and interactive format. I hope you enjoy exploring it. For a more concise version of my resume, please visit the next page.
-{% endhint %}
+*If you've been directed to this webpage to find my resume, you're in the right place! While this isn't a traditional resume, it contains all the information you need, presented in a vivid and interactive format. I hope you enjoy exploring it. For a more concise version of my resume, please visit the next page.*
+
 
 My name is Zhang Lei. Inspired by [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9\_Descartes), I began my research journey with an interest in algebraic geometry at the age of seven. In honor of him, I also use 'descartes' as my developer name.&#x20;
 
