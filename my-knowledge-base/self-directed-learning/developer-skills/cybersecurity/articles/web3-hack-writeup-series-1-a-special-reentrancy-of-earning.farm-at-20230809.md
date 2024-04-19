@@ -413,5 +413,3 @@ In this case, our profit would be 188 ether, which is 34 ether higher than the i
 4. [https://github.com/descartes100/Web3Hack](https://github.com/descartes100/Web3Hack)
 
 I am thankful for the contribution of [@1nf0s3cpt](https://twitter.com/1nf0s3cpt) and numerous other web3 developers to the DeFiHackLabs project. I have gained substantial benefits from it, and it stands as the best web3 security learning resource up to this point. Special thanks to [@Phalcon\_xyz](https://twitter.com/Phalcon\_xyz) for providing the powerful debugging transaction tool, which significantly facilitates the analysis of attack cases.
-
-Appreciation goes out to all readers who have come this far! If you have any questions or ideas, please feel free to discuss them in the comments section or reach out to me on [Twitter](https://twitter.com/snow\_elven). Your feedback matters to me, and I truly look forward to engaging with each of my readers in the conversation!

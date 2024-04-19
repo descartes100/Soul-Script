@@ -24,6 +24,7 @@
     * [Cybersecurity](my-knowledge-base/self-directed-learning/developer-skills/cybersecurity/README.md)
       * [Articles](my-knowledge-base/self-directed-learning/developer-skills/cybersecurity/articles/README.md)
         * [\[Web3 Hack Writeup Series - 1\] A special reentrancy of Earning.Farm at 20230809](my-knowledge-base/self-directed-learning/developer-skills/cybersecurity/articles/web3-hack-writeup-series-1-a-special-reentrancy-of-earning.farm-at-20230809.md)
+        * [\[Web3 Hack Writeup Series - 2\] The Flashloan's fault(20230905\_FloorDAO )](my-knowledge-base/self-directed-learning/developer-skills/cybersecurity/articles/web3-hack-writeup-series-2-the-flashloans-fault-20230905\_floordao.md)
     * [Machine Learning](my-knowledge-base/self-directed-learning/developer-skills/machine-learning.md)
     * [Data Analyst](my-knowledge-base/self-directed-learning/developer-skills/data-analyst.md)
     * [Frontend](my-knowledge-base/self-directed-learning/developer-skills/frontend.md)
