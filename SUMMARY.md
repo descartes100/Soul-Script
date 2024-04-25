@@ -46,6 +46,8 @@
     * [Web3 Culture](my-knowledge-base/self-directed-learning/social-science/web3-culture/README.md)
       * [Blockchain: The Dark Forest](my-knowledge-base/self-directed-learning/social-science/web3-culture/blockchain-the-dark-forest.md)
       * [Cryptoeconomics: Awakening the Game of Life](my-knowledge-base/self-directed-learning/social-science/web3-culture/cryptoeconomics-awakening-the-game-of-life.md)
+      * [Obstacles to the Financialization of NFTs](my-knowledge-base/self-directed-learning/social-science/web3-culture/obstacles-to-the-financialization-of-nfts.md)
+      * [The Art of Pricing: Unleashing the Power of Memes](my-knowledge-base/self-directed-learning/social-science/web3-culture/the-art-of-pricing-unleashing-the-power-of-memes.md)
 
 ***
 
