@@ -1,2 +1,7 @@
-# Developer Skills
+# Development
 
+Before I begin, it's necessary to mention my GitHub name - [descartes](https://github.com/descartes100), which is in honor of the renowned philosopher and mathematician, [René Descartes](https://en.wikipedia.org/wiki/Ren%C3%A9\_Descartes).
+
+I started teaching myself programming at the age of 8, a hobby that has continued for 16 years. From initially creating games, solving algorithmic problems, to later developing websites, apps, and blockchain applications, and crafting cybersecurity tools and trading strategies, I believe development has become an integral part of my life. It has shaped my habits of independent learning, an open-minded attitude, and self-organized values.
+
+The information age has granted individuals enormous leverage of power, and I have benefited immensely from it. There is no more convenient and comprehensive source of information than the internet, nor a more perfect environment for self-study. I've learned nearly all the technical skills I need from publicly available information on the internet—various open-source code repositories, study notes, documentation. Besides, cyberspace has also been the most convenient place to meet like-minded friends. I've met many good friends who are as passionate about development as I am, and they have provided me with valuable guidance both technically and intellectually. My self-learning experience has also yielded good results: such as the 50+ open-source projects I've participated in and created on GitHub, development and research positions I've obtained at companies like Bytedance and Neo, and leading two startup projects as a Core Developer.

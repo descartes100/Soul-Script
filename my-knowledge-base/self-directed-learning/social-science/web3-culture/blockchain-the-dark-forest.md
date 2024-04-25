@@ -1,8 +1,10 @@
 ---
-description: First published on Medium on Aug 11, 2021
+description: >-
+  -Reflections Sparked by the Poly Network Attack, First published on Medium on
+  Aug 11, 2021
 ---
 
-# Blockchain: The Dark Forest – Reflections Sparked by the Poly Network Attack
+# Blockchain: The Dark Forest
 
 Blockchain technology can aptly be described as a dark forest.
 

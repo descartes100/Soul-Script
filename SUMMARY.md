@@ -17,7 +17,7 @@
   * [Finance](my-knowledge-base/academic-foundations/finance.md)
   * [Computer Science](my-knowledge-base/academic-foundations/computer-science.md)
 * [Self-Directed Learning](my-knowledge-base/self-directed-learning/README.md)
-  * [Developer Skills](my-knowledge-base/self-directed-learning/developer-skills/README.md)
+  * [Development](my-knowledge-base/self-directed-learning/developer-skills/README.md)
     * [Blockchain](my-knowledge-base/self-directed-learning/developer-skills/blockchain/README.md)
       * [Articles](my-knowledge-base/self-directed-learning/developer-skills/blockchain/articles/README.md)
         * [A Personal Account of Fully On-Chain Trading Strategy Implementation](my-knowledge-base/self-directed-learning/developer-skills/blockchain/articles/a-personal-account-of-fully-on-chain-trading-strategy-implementation.md)
@@ -44,4 +44,9 @@
     * [Investment](my-knowledge-base/self-directed-learning/social-science/investment.md)
     * [Philosophy](my-knowledge-base/self-directed-learning/social-science/philosophy.md)
     * [Web3 Culture](my-knowledge-base/self-directed-learning/social-science/web3-culture/README.md)
-      * [Blockchain: The Dark Forest – Reflections Sparked by the Poly Network Attack](my-knowledge-base/self-directed-learning/social-science/web3-culture/blockchain-the-dark-forest-reflections-sparked-by-the-poly-network-attack.md)
+      * [Blockchain: The Dark Forest](my-knowledge-base/self-directed-learning/social-science/web3-culture/blockchain-the-dark-forest.md)
+      * [Cryptoeconomics: Awakening the Game of Life](my-knowledge-base/self-directed-learning/social-science/web3-culture/cryptoeconomics-awakening-the-game-of-life.md)
+
+***
+
+* [FAQ](faq.md)
