@@ -39,6 +39,7 @@
     * [Interdiscipline Insights](my-knowledge-base/self-directed-learning/natural-science/interdiscipline-insights/README.md)
       * [Search for Extraterrestrial Intelligence](my-knowledge-base/self-directed-learning/natural-science/interdiscipline-insights/search-for-extraterrestrial-intelligence.md)
       * [Complexity Theorem](my-knowledge-base/self-directed-learning/natural-science/interdiscipline-insights/complexity-theorem.md)
+      * [Thoughts on AI Interpretability](my-knowledge-base/self-directed-learning/natural-science/interdiscipline-insights/thoughts-on-ai-interpretability.md)
   * [Social Science](my-knowledge-base/self-directed-learning/social-science/README.md)
     * [Economic](my-knowledge-base/self-directed-learning/social-science/economic.md)
     * [Investment](my-knowledge-base/self-directed-learning/social-science/investment.md)
