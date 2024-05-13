@@ -2,7 +2,7 @@
 
 * [Welcome to my Soul Script!](README.md)
 * [Resume](resume.md)
-* [My Tech Stack](my-tech-stack.md)
+* [My Tech Stack - Web3 Related](my-tech-stack-web3-related.md)
 
 ## PoC
 
