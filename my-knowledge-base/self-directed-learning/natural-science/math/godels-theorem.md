@@ -1,2 +1,0 @@
-# Godel's Theorem
-
