@@ -17,6 +17,7 @@
 * [The Art of Pricing: Unleashing the Power of Memes](blogs/the-art-of-pricing-unleashing-the-power-of-memes.md)
 * [Other Possibilities of Smart Contracts: Insights from DLCs](blogs/other-possibilities-of-smart-contracts-insights-from-dlcs.md)
 * [Thoughts on AI Interpretability](blogs/thoughts-on-ai-interpretability.md)
+* [A Personal Account of Fully On-Chain Trading Strategy Implementation](blogs/a-personal-account-of-fully-on-chain-trading-strategy-implementation.md)
 
 ***
 
