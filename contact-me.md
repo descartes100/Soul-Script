@@ -1,9 +1,11 @@
 # Contact me
 
-email: descartes106@gmail.com
+email: descartes106 AT gmail.com
 
-github: [https://github.com/descartes100](https://github.com/descartes100)
+[twitter](https://twitter.com/snow\_elven)
 
-linkedin: [https://www.linkedin.com/in/lei-zhang-new/](https://www.linkedin.com/in/lei-zhang-new/)
+[github](https://github.com/descartes100)
 
-youtube: [https://www.youtube.com/@dappopia2845](https://www.youtube.com/@dappopia2845)
+[linkedin](https://www.linkedin.com/in/lei-zhang-new/)
+
+[youtube](https://www.youtube.com/@dappopia2845)
